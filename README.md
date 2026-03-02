@@ -1,5 +1,7 @@
-# Kingdom Simulation Game
-![Uploading image.png…]()
+<img width="1201" height="699" alt="image" src="https://github.com/user-attachments/assets/fd3f3ee0-60b3-402d-b2ee-a3d521c179df" /># Kingdom Simulation Game
+<img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/229fd7db-e2a2-4e84-9a9e-120c4447e7b4" />
+<img width="1195" height="693" alt="image" src="https://github.com/user-attachments/assets/39793c67-3c9a-4b49-8332-3dfb5674d48a" />
+<img width="1201" height="699" alt="image" src="https://github.com/user-attachments/assets/c6a1ff0f-46f3-4072-8adf-564faa4b477a" />
 
 ## Overview
 This is a kingdom simulation game that allows you to manage a kingdom, including resources, population, military, economy, and leadership. The game is built using the `raylib` library for graphics and interactive elements. Players control the kingdom’s growth, manage resources, train and recruit soldiers, implement leadership policies, and handle events that occur over time.
